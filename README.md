@@ -16,7 +16,8 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code Insiders](https://img.shields.io/badge/VS%20Code-5578BE.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+![VS Code](https://img.shields.io/badge/VS%20Code-5578BE.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DG-DanielDev&theme=transparent&bg_color=001&border_color=31A9DC&show_icons=true&icon_color=3FA3DC&title_color=C2D5F&text_color=FFF)
