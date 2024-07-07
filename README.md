@@ -5,18 +5,25 @@
 - 🌱 Atualmente estudando java no desenvolvimento back-end
 - 🎯 Busco ingressar como estagiário na área back-end no desenvolvimento java
  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2739BC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dg-danieldev/)](https://www.linkedin.com/in/DG-Danieldev)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-2739BC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dg-danieldev/)](https://www.linkedin.com/in/DG-Danieldev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dg-danieldev/)](https://www.linkedin.com/in/DG-Danieldev)
+
+---
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-2739BC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dg-danieldev/)](https://www.linkedin.com/in/DG-Danieldev)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dg-danieldev/)](https://www.linkedin.com/in/DG-Danieldev)
 
 ## Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-5578BE.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
