@@ -4,14 +4,7 @@
 - 🧑🏾‍💻 Fascinado por tecnologia e em ajudar as pessoas
 - 🌱 Atualmente estudando java no desenvolvimento back-end
 - 🎯 Busco ingressar como estagiário na área back-end no desenvolvimento java
- 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-2739BC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dg-danieldev/)](https://www.linkedin.com/in/DG-Danieldev)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dg-danieldev/)](https://www.linkedin.com/in/DG-Danieldev)
-
----
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-2739BC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dg-danieldev/)](https://www.linkedin.com/in/DG-Danieldev)
-
+  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dg-danieldev/)](https://www.linkedin.com/in/DG-Danieldev)
 
 ## Tecnologias e Ferramentas
@@ -23,8 +16,8 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DG-DanielDev&theme=transparent&bg_color=001&border_color=31A9DC&show_icons=true&icon_color=3FA3DC&title_color=C2D5F&text_color=FFF)
