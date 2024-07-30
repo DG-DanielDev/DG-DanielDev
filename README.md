@@ -25,3 +25,9 @@
 
 ![DG-DanielDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DG-DanielDev&theme=gotham&hide_border=false)
 
+<div align=center>
+  
+[<img src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png" height=100 widht=100>](https://web.dio.me/track/santander-2024-backend-com-java/)
+[<img src="https://hermes.dio.me/courses/badge/257b94f1-4e16-4a0d-b090-c5abc0183cc9.png" height="100" widht=100>](https://www.linkedin.com/in/DG-Danieldev)
+
+</div>
