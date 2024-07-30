@@ -19,8 +19,9 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+![DG-DanielDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DG-DanielDev&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+
 ![DG-DanielDev's Stats](https://github-readme-stats.vercel.app/api?username=DG-DanielDev&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
 ![DG-DanielDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DG-DanielDev&theme=gotham&hide_border=false)
 
-![DG-DanielDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DG-DanielDev&theme=gotham&show_icons=true&hide_border=false&layout=compact)
