@@ -3,7 +3,7 @@
 - 🙋🏾 Me chamo Daniel, mas pode me chamar de DG. Sou estudante de computação
 - 🧑🏾‍💻 Fascinado por tecnologia e em ajudar as pessoas
 - 🌱 Atualmente estudando java no desenvolvimento back-end
-- 🎯 Busco ingressar no mercado de trabalho como estagiário na área back-end no desenvolvimento java
+- 🎯 Busco ingressar no mercado de trabalho como estagiário em desenvolvimento Backend
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dg-danieldev/)](https://www.linkedin.com/in/DG-Danieldev)
 
